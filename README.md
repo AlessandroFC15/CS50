@@ -1,2 +1,2 @@
 # CS50
-Solutions to CS50's EDx version.
+Solutions to CS50's edX version.
